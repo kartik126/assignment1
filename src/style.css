@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.form-label{
+  display: flex;
+  justify-content: start;
+}
+.left_div{
+  margin-top: 100px;
+  border-right: solid .5px;
+}
+.right-div{
+  margin-top: 100px;
+}
